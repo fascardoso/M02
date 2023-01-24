@@ -3,5 +3,6 @@
 **Alterações feitas no arquivo:**
 * primeira alteração
 * segunda alteração
-* inserir o ramo b
-* ramo b
+* **Alterações feitas no arquivo:**
+* inserir o ramo a
+* ramo a

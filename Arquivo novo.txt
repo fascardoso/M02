@@ -1,0 +1,7 @@
+Arquivo original
+
+linha onlinee 1
+
+Linha offlinee 2
+
+Linha offlinee 3
